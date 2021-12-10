@@ -5,7 +5,18 @@
       "version": "1.16.5",
       "mods": [
         "AppleSkin-mc1.16.2-forge-1.0.14.jar",
-        "Artifacts-1.16.4-2.7.5.jar"
+        "Artifacts-1.16.4-2.7.5.jar",
+        "BetterCaves-Forge-1.16.4-1.1.1",
+        "betterendforge-1.16.4-1.3.0",
+        "BiomesOPlenty-1.16.4-13.0.0.422-universal",
+        "Bookshelf-1.16.4-9.0.7",
+        "Buddycards-1.16.4-1.6.2",
+        "citadel-1.6.2",
+        "create-mc1.16.3_v0.3c",
+        "curios-forge-1.16.4-4.0.3.4",
+        "direbats-1.0.0+1.16.4-forge",
+        "dungeons_plus-1.16.4-1.1.3",
+        "exoticbirds-1.16.4-1.0.3"
       ]
     }
   },
