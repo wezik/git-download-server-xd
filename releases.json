@@ -1,0 +1,16 @@
+{
+  "releases": {
+    "1.16.5-mangoez": {
+      "forge": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.16.5-36.2.20/forge-1.16.5-36.2.20-installer.jar",
+      "version": "1.16.5",
+      "mods": [
+        "AppleSkin-mc1.16.2-forge-1.0.14.jar",
+        "Artifacts-1.16.4-2.7.5.jar"
+      ]
+    }
+  },
+  "currentLive": [
+    "1.16.5-mangoez",
+    "none other"
+  ]
+}
