@@ -1,5 +1,6 @@
 {
-  "releases": {
+    "version": "0.0.1",
+	"releases": {
     "1.16.5-mangoez": {
       "forge": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.16.5-36.2.20/forge-1.16.5-36.2.20-installer.jar",
       "version": "1.16.5",
